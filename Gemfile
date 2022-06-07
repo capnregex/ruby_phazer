@@ -55,3 +55,8 @@ group :development do
   # gem "spring"
 end
 
+
+gem "rspec-rails", "~> 5.1"
+
+gem "turbo-rails", "~> 1.1"
+gem "stimulus-rails", "~> 1.0"

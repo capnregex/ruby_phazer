@@ -67,3 +67,11 @@ gem "cssbundling-rails", "~> 1.1"
 
 gem "draper", "~> 4.0"
 gem "pundit", "~> 2.2"
+
+gem "devise", "~> 4.8"
+
+gem "omniauth", "~> 2.1"
+
+gem "omniauth-google-oauth2", "~> 1.0"
+
+gem "haml-rails", "~> 2.0"

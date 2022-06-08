@@ -60,3 +60,10 @@ gem "rspec-rails", "~> 5.1"
 
 gem "turbo-rails", "~> 1.1"
 gem "stimulus-rails", "~> 1.0"
+
+gem "jsbundling-rails", "~> 1.0"
+
+gem "cssbundling-rails", "~> 1.1"
+
+gem "draper", "~> 4.0"
+gem "pundit", "~> 2.2"
